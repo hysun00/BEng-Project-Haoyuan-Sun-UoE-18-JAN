@@ -30,11 +30,11 @@ In most of the folders you can see v1 and v2. They represents version 1 and 2, r
 
 ## Remote access to PYNQ and Juypter Notebooks
 
-By following my instructions, you can recognise handwritten digits with PYNQ-Z1 board. If you have one, then you just need to copy the folders into your /jupyter_notebooks  and follow further instructions in /overlay. Otherwise, please read this section.
+By following my instructions, you can let PYNQ-Z1 board recognise hand-written digits. If you have one, then you just need to copy the folders into your /jupyter_notebooks  and follow further instructions in /overlay. Otherwise, please read this section.
 
 You can also log in remotely to my PYNQ board. If you want to do this, please send me an email so that I can power on the board for you. What you need to do then is to type  **[192.168.1.135]()** in the browser (firefox and Chrome recommended) and you will be brought to the log-in page which looks like:
 
-![Screenshot 2022-01-17 225036](C:\Users\Haoyu\OneDrive\Desktop\pic\Screenshot 2022-01-17 225036.png)
+![](/pic_for_readme/image-20220117225426434.png)
 
 The password is: **xilinx**. By following the instructions you should be able to see the contents in my juypter notebook.
 
