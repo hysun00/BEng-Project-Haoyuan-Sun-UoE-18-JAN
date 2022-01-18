@@ -30,15 +30,13 @@ In most of the folders you can see v1 and v2. They represents version 1 and 2, r
 
 ## Remote access to PYNQ and Juypter Notebooks
 
-If you have a PYNQ-Z1 board, then you just need to copy the folders into your notebooks' folder and follow the instructions in /overlay. Otherwise, please read this section.
-
 You can also log in remotely to my PYNQ board. If you want to do this, please send me an email so that I can power on the board for you. What you need to do then is to type  **[192.168.1.135]()** in the browser (firefox and Chrome recommended) and you will be brought to the log-in page which looks like:
 
-![](https://github.com/hysun00/BEng-Project-Haoyuan-Sun-UoE/blob/master/pic_for_readme/image-01-17%20225036.png)
+![Screenshot 2022-01-17 225036](C:\Users\Haoyu\OneDrive\Desktop\pic\Screenshot 2022-01-17 225036.png)
 
 The password is: **xilinx**. By following the instructions you should be able to see the contents in my juypter notebook.
 
-![image-20220117225426434](C:\Users\Haoyu\OneDrive\Desktop\image-20220117225426434.png)
+![image-20220117225426434](C:\Users\Haoyu\AppData\Roaming\Typora\typora-user-images\image-20220117225426434.png)
 
 In the folders with the suffix v1 and v2 are stored the API for IP core built with PL resources, the python programme that guides the ARM CPU to control the data flow, the input 28*28 input feature maps and parameters of LeNet-5 model, and the files configuring the ZYNQ board, which are exported from the vivado projects.
 
