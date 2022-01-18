@@ -13,7 +13,7 @@ You have access to these four folders, namely: HLS_PRJ, LeNet-tf, overlay, SoC_P
 | LeNet-tf           | The LeNet-5[1] model constructed with tensorflow[2] are stored in this folder. Here you can also find MNIST[3] dataset and all the parameters the LeNet-5 model needs to do the inference. For more details, please refer to the readme.md in /LeNet. |
 | HLS-PRJ            | The HLS projects for generating the IP cores aiming at accelerating the CNN inference are stored here. For more details, please refer to the readme.md in /HLS_PRJ |
 | SoC_PRJ            | The soc projects for configuring my PYNQ[4] board(an amazing SoC platform incorporating the productivity of python and flexibility of Xilinx SoC platform)are stored in this folder. In this folder you can find |
-| overlay(https://github.com/hysun00/BEng-Project-Haoyuan-Sun-UoE/tree/master/overlay)            | The python programmes  designed for LeNet-5 inference on SoC are stored in this folder. For more details, please refer to the readme.md in /overlay |
+| [overlay](https://github.com/hysun00/BEng-Project-Haoyuan-Sun-UoE/tree/master/overlay)            | The python programmes  designed for LeNet-5 inference on SoC are stored in this folder. For more details, please refer to the readme.md in /overlay |
 
 
 
