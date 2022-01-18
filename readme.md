@@ -34,7 +34,7 @@ By following my instructions, you can let PYNQ-Z1 board recognise hand-written d
 
 You log into my PYNQ board remotely. If you want to do this, please send me an email so that I can power on the board for you. What you need to do then is to type  **[192.168.1.135]()** in the browser (firefox and Chrome recommended) and you will be brought to the log-in page which looks like:
 
-![](/pic_for_readme/image-01-17 225036.png)
+![](/pic_for_readme/image-01-17-225036.png)
 
 The password is: **xilinx**. By following the instructions you should be able to see the contents in my juypter notebook.
 
